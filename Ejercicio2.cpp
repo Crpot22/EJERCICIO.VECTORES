@@ -24,4 +24,5 @@ vector<int> input_numbs(vector<int>& x_vector){
 }
 void print_vector(vector<int>& x_vector){
     for(int element: x_vector){
-   
+    }
+}
