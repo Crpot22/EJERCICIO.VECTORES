@@ -45,7 +45,7 @@ vector<int> new_salaries(vector<int>& x_vector){
     }cout<<new_vector.size()<<endl;
     return new_vector;
 }
-//sacare el salrio promedio sin el salario maximo ni minimo
+//sacar el salrio promedio sin el salario maximo ni minimo
 int average_salaries(vector<int>& x_vector){
     cout<<x_vector.size()<<endl;
     int sum=0,average;
